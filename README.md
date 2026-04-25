@@ -1,4 +1,4 @@
-##ENTREGA FINAL GARCÍA BOSSIO#
+# ENTREGA FINAL GARCÍA BOSSIO 
 # Clasificación de Sentimientos con PyTorch y NLP
 Este proyecto realiza un análisis de sentimientos sobre reseñas de películas de IMDB utilizando técnicas avanzadas de procesamiento de lenguaje natural.
 
