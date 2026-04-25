@@ -24,8 +24,6 @@ El modelo alcanzó una precisión (accuracy) del 83%, demostrando una alta capac
 
 ## 💡 Conclusiones
 
-Como líneas de mejora, se propone la transición hacia arquitecturas recurrentes (LSTM) o basadas en Transformers (BERT), que permitirían capturar la estructura secuencial y el contexto de las oraciones de forma más profunda. 
-
 El éxito de este clasificador no dependió solo de la red neuronal, sino de la calidad y estructura de la base de datos de origen:
 
 **Dataset Balanceado como Pilar de Entrenamiento:** Al trabajar con el corpus de IMDB, contamos con una distribución equitativa (50/50) de reseñas positivas y negativas. Esto evitó que el modelo desarrollara sesgos (por ejemplo, que tendiera a predecir todo como positivo por simple probabilidad), permitiendo que el 83% de accuracy sea una métrica real y honesta del desempeño.
